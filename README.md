@@ -9,7 +9,7 @@ It took me three months to work through all of the course material. Although I g
 
 <p align="center">
   <kbd>
-<img src="https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png" width="150" height="200" border="black" >
+<img src="https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png" width="150" height="200" >
   </kbd>
 </p>
 

@@ -7,4 +7,4 @@ Course certification requires passing a mid-term and final exam. Finger exercise
 
 It took me three months to work through all of the course material. Although I got one question wrong in the final PSet, which allows only one attempt for most questions, my grade for the first half of the course rounded up to full marks:
 
-<img src="https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png" align="middle" width="150" height="200">
+<img src="https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png" width="150" height="200" align="middle" >

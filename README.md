@@ -9,4 +9,3 @@ It took me three months to work through all of the course material. Although I g
 
 ![alt text](https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png)
 
-[[https://github.com/ElAwbery/MIT-CS-and-PP/blob/master/Screen%20Shot%202018-06-05%20at%203.03.50%20PM.png]]

@@ -5,7 +5,7 @@ The course divides into seven weeks. Each of the first six week contains three p
 
 Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%
 
-It took me three months to work through all of the course material. Although I got one question wrong in the final PSet, which allows only one attempt for most questions, my grade for the first half of the course rounded up to full marks:
+It took me three months to work through all of the course material. Graded problem sets and finger exercises for the full course went well & I completed successfully with full marks. Most of the grader problems allow more than one try. The final week's problem sets on algorithmic complexity have a number of one try only questions. Here's a satisfying bar chart shot from my EdX course progress documentation:
 
 <p align="center">
   <kbd>

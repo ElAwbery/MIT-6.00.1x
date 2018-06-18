@@ -3,7 +3,7 @@
 """
 Created on Thu Mar 15 12:28:16 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def isIn (char, aStr):

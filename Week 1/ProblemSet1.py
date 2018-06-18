@@ -3,9 +3,8 @@
 """
 Created on Tue Mar  6 09:39:11 2018
 
-@author: Charlie
+@author: ElAwbery
 """
-
 
 # Assume s is a string of lower case characters.
 
@@ -26,8 +25,6 @@ for letter in s:
         
 print ('Number of vowels:', countVowel)
     
-
-
 # Assume s is a string of lower case characters.
 
 # Write a program that prints the number of times the string 'bob' occurs in s. 

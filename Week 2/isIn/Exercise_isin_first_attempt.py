@@ -3,8 +3,9 @@
 """
 Created on Thu Mar 15 14:04:46 2018
 
-@author: Charlie
+@author:ElAwbery
 """
+#this attempt worked in my Python Shell but was not accepted by the course grader
 
 def isIn (char, aStr):
     '''

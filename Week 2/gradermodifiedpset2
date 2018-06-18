@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 17 17:19:06 2018
+
+@author: Charlie
+"""
+
+balance = 484
+annualInterestRate = 0.2
+monthlyPaymentRate = 0.04
+    
+monthCount = 12
+
+while monthCount > 0:               #calculates monthly payment
+
+    minMonthlyPayment = balance * monthlyPaymentRate
+    
+    unpaidMonthlyBalance = balance - minMonthlyPayment
+     
+    monthInterest = annualInterestRate/12 * unpaidMonthlyBalance
+    
+    balance = round ((unpaidMonthlyBalance + monthInterest), 2)
+    
+    monthCount -= 1
+
+print ("Remaining balance:", balance)  
+
+
+
+

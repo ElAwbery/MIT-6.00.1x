@@ -38,9 +38,6 @@ def isIn(char, aStr):
             aStr = aStr[aStr.index (middleLetter)+1:]       # cut string middle letter and below
             isIn (char, aStr)                               # recurse to isIn
         
- 
-            
-        
     return False
         
         

@@ -3,17 +3,14 @@
 """
 Created on Mon Mar  5 11:25:41 2018
 
-@author: Charlie
+@author: ElAwbery
 """
-
-
 
 # Write a program that asks the user to enter an integer and prints two integers, root and pwr, such that 
 # 0 < pwr < 6, and root**pwr is equal to the integer entered by the user. If no such pair of integers exists, 
 # it should print a message to that effect
 
-
-# my modified code
+# my first attempt:
 
 userInt = int(input("Enter an integer: "))
 
@@ -43,8 +40,7 @@ if notFound:
     print ("There are no integers such that", userInt, "has an integer root to the power of another integer less than or equal to 6.")
 
 
-
-# David's code
+# A later attempt with better code:
 
 userInt = int(input("Enter an integer: "))
 
@@ -52,8 +48,8 @@ pwr = 2
 root = 0
 notFound = True
 
-while pwr < 6 and notFound: #is there a reason to include notFound here: is it mostly to make the process clear to a reader? 
-   
+while pwr < 6 and notFound: 
+    
     while root <= userInt and notFound:
         if root**pwr == userInt:
             print(userInt, "=", root, "^", pwr)

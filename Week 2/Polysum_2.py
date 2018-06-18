@@ -3,7 +3,7 @@
 """
 Created on Sat Mar 17 12:46:51 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 from math import pi, tan

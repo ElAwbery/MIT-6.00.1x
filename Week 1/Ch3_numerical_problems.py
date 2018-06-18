@@ -3,11 +3,10 @@
 """
 Created on Sun Mar  4 13:13:54 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #find the cube root of an integer:
-
 
 userInt = int(input("enter an integer"))
 
@@ -28,8 +27,6 @@ i = 0
 while i < maxVal:
     i = i + 1
 print (i)
-
-
 
 
 # Write a program that asks the user to enter an integer and prints two integers, root and pwr, such that 
@@ -76,7 +73,7 @@ else:
     print ("There are no integers such that", userInt, "has an integer root to the power of another integer less than or equal to 6.")
     
 
-# I wasn't happy with the nested if statements. This is David's suggested code: 
+# I wasn't happy with the nested if statements. This is better code: 
 
 userInt = int(input("Enter an integer: "))
 
@@ -84,7 +81,7 @@ pwr = 2
 root = 0
 notFound = True
 
-while pwr < 6 and notFound: #is there a reason to include notFound here? 
+while pwr < 6 and notFound:     #what is the reason to include notFound here? 
    
     while root <= userInt and notFound:
         if root**pwr == userInt:

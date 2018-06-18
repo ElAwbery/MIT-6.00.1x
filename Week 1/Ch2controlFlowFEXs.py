@@ -3,7 +3,7 @@
 """
 Created on Mon Feb 26 16:33:33 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #Exercise: write a program that examines three variables, x y and z, and prints the largest odd number among them. 
@@ -49,7 +49,7 @@ print (toPrint)
 num =(numX)
 
 while numX < 0:
-    print ("I can't print anything less than 0 times, you wally. Please try harder.")
+    print ("I can't print anything less than 0 times fgs. Please try harder.")
     numX = int(input('How many times should I print the letter X?'))
     
 num = (numX)
@@ -61,7 +61,7 @@ while num > 0:
 print (toPrint)
 
 '''
-#Write a program that asks the user to inut 10 integers, and then prints the largest odd number that was entered. 
+#Write a program that asks the user to input 10 integers, and then prints the largest odd number that was entered. 
 #If no odd number was entered, it should print a message to that effect. 
 
 userInts = input("write three integers, all less than 10, each separated by a space")
@@ -71,21 +71,15 @@ while stringNum != ' ':
     val = stringNum + stringNum
     stringNum = stringNum[+1]
     
-
-
-
 while sringNum != ' ':
     #concatenate an integer from srtingNums
     stingNum = stringNum + stringNum
 int (stringNum)
 print (int)
 
-
-
 nextInteger = userIntsLength
 
 #stops when there are no more integers
-
 
 varA = 6
 varB = 7

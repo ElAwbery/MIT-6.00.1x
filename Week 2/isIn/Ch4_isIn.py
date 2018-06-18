@@ -3,7 +3,7 @@
 """
 Created on Sun Mar 11 15:11:29 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def isIn (str1, str2):

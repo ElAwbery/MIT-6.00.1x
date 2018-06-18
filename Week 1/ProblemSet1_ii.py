@@ -97,39 +97,3 @@ print ("Longest substring in alphabetical order is:", subString)
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

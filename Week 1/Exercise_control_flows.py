@@ -3,7 +3,7 @@
 """
 Created on Mon Feb 26 16:33:33 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #Exercise: write a program that examines three variables, x y and z, and prints the largest odd number among them. 
@@ -30,7 +30,7 @@ toPrint = ''
 #concatenate x to print numXs times
 num =(numX)
 while numX < 0:
-    print ("I can't print anything less than 0 times, you wally. Please try harder.")
+    print ("I can't print anything less than 0 times. Please try again.")
     numX = int(input('How many times should I print the letter X?'))
 num = (numX)
 while num > 0:

@@ -3,7 +3,7 @@
 """
 Created on Fri Mar  9 14:09:57 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #finger exercise for negative root code: I predict it will print 'numGuesses = 1' and '0 is close to square root of -25;
@@ -32,10 +32,10 @@ print ("numGuesses =", numGuesses)
 print (ans, "is close to square root of", x) 
 
 
-# "Exercise pg. 34: adjust the code to find the cube root of both negative and positive numbers.
+# "Exercise pg. 34 in the course textbook: adjust the code to find the cube root of both negative and positive numbers.
 # Make sure the answer lies in the region searched: to do this, change low"
 
-# That was not my solution. 
+# That was not my solution 
 
 programX = 0.5
 
@@ -68,41 +68,4 @@ if programX < 0:
     
 print ("numGuesses =", numGuesses)
 print (ans, "is close to cube root of", x) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

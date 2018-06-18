@@ -3,6 +3,8 @@ In this repository I document my progress through the MIT CS 6.00.1 EdX online c
 
 The course divides into seven weeks. Each of the first six week contains three parts. The first two parts are video lectures and finger exercises. The third part is all problem sets. The final week is not graded. 
 
+I used the course textbook alongside the online videos and exercises. In this repo each course week folder contains exercises from the chapters in the textbook covering the same material. 
+
 Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%
 
 It took me three months to work through all of the course material. Graded problem sets and finger exercises for the full course went well & I completed successfully with full marks. Most of the grader problems allow more than one try. The final week's problem sets on algorithmic complexity have a number of one try only questions. Here's a satisfying bar chart shot from my EdX course progress documentation:

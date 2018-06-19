@@ -6,7 +6,6 @@ Created on Sun Mar 18 15:26:45 2018
 @author: ElAwbery
 """
 
-
 balance = 3926
 annualInterestRate = 0.2
 
@@ -37,9 +36,6 @@ elif the guess is too high:
 else break
 print result
     
-    
-
-    
     newBalance = balance
     fixedMonthlyPayment +=10
     monthCount = 12
@@ -56,5 +52,4 @@ print result
         
         monthCount -= 1
         
-
 print  ("Lowest payment:", round (fixedMonthlyPayment, 2))

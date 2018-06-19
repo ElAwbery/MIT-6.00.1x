@@ -9,12 +9,8 @@ Created on Mon Mar 19 13:14:12 2018
 balance = 999999
 annualInterestRate = 0.18
 
-
 epsilon = 0.01
-
 monthInterest = annualInterestRate/12
-
-
 
 low = balance/12
 high = balance * ((1 + monthInterest)**12)/12
@@ -23,11 +19,9 @@ monthlyGuess = (high + low)/2
           
 newBalance = balance
 monthCount = 12
-
     
 while abs (newBalance) > epsilon:
     
-
     newBalance = balance
     monthCount = 12
      
@@ -39,8 +33,7 @@ while abs (newBalance) > epsilon:
         
         newBalance = unpaidBalance + monthInterest
         
-        monthCount -= 1
-        
+        monthCount -= 1 
     
     if newBalance < -epsilon:               # guess was too high, lower upper boundary
         high = monthlyGuess
@@ -50,16 +43,7 @@ while abs (newBalance) > epsilon:
     elif newBalance > epsilon:              # guess was too low, raise lower boundary
         low = monthlyGuess
         monthlyGuess = (high + low)/2
-        
     
 print  ("Lowest payment first print place:", round (monthlyGuess, 2))
     
-        
-
-
-
-
-
-
-
-
+   

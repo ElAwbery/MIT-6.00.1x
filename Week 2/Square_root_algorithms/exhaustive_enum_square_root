@@ -3,9 +3,11 @@
 """
 Created on Sun Mar 25 14:33:11 2018
 
-@author: Charlie
+@author: ElAwbery
 """
-
+'''
+Exhaustive enumerative approach to finding a square root
+'''
 
 x = 0.25
 epsilon = 0.01
@@ -23,8 +25,6 @@ else:
     print (ans, "is close to square root of", x)
     
     # The step is the same every time, and it is minute
-    # The last value before exceeding x is about 0.25 too small and the one after that is about 0.25 too big
-    # So the condition that stops the program running is that the answer variable exceeds the size of x, not that it
-    # exceeds the value of the sq root by too much
-    # 
+    # The last value before ans^2 exceeds x is too small and the one after that is too big
+    # So the condition that stops the program running is that the variable ans^2 exceeds the size of x
    

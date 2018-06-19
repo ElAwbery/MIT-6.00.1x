@@ -5,6 +5,7 @@ Created on Sun Mar 18 13:54:32 2018
 
 @author: ElAwbery
 """
+# a more efficient solution to the same problem, added later
 
 balance = 3926
 annualInterestRate = 0.2

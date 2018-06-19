@@ -32,7 +32,7 @@ Remaining balance: 4784.0
 
 '''
 # This failed the grader test. Came back with "make sure you don't define a function!"
-# They had been teaching us to define functions but set a problem where they don't want a function definition
+# They had been teaching us to define functions but set a problem where they did not want a function definition
 
 def annualCardStatement (balance, annualInterestRate, monthlyPaymentRate):
     '''

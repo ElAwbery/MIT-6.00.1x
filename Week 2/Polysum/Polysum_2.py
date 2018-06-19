@@ -9,7 +9,7 @@ Created on Sat Mar 17 12:46:51 2018
 from math import pi, tan
 def polysumPeer(n, s):
     '''
-    this function sum the area and square of the perimeter of a regular polygon.
+    this function sums the area and square of the perimeter of a regular polygon.
     n : int or float 
     s : int or float 
     returns : a float num rounded to 4 decimal places.

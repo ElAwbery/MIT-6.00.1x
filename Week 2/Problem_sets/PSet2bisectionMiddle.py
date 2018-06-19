@@ -3,7 +3,7 @@
 """
 Created on Mon Mar 19 12:05:59 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 '''
 My starting out position was better than this and closer to solving the problem. I moved increasingly further away from 

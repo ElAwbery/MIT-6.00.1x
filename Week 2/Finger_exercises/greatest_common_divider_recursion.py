@@ -3,14 +3,13 @@
 """
 Created on Wed Mar 14 12:55:05 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 # first attempt, used a helper function when I did not need to:
 """
 def gcdRecur(a, b):
     '''
     a, b: positive integers
-    
     returns: a positive integer, the greatest common divisor of a & b.
     '''
     if a > b:
@@ -28,7 +27,6 @@ def eucAlg (largest, smallest, remainder):
     '''
     passed largest, smallest and remainder from gcdRecur, all integers
     returns greatest common divisor to gcdRecur
-    
     
     if remainder == 1:
         return 1

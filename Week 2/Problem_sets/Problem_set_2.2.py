@@ -3,8 +3,11 @@
 """
 Created on Sun Mar 18 11:26:58 2018
 
-@author: Charlie
+@author: ElAwbery
 """
+'''
+Second try at this problem, re-writing for the course grader without a function definition
+'''
 
 balance = 3926
 annualInterestRate = 0.2

@@ -1,7 +1,7 @@
 # MIT 6.001 CS
 In this repository I document my progress through the MIT CS 6.00.1 EdX online course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) taught by Eric Grimson, John Guttag and Ana Bell. The Book accompanying the course is available [here](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-1). 
 
-The course divides into seven weeks. Each of the first six week contains three parts. The first two parts are video lectures and finger exercises. The third part is all problem sets. The final week is not graded. 
+The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is all problem sets. The final week is not graded. 
 
 I used the course textbook alongside the online videos and exercises. In this repo each course week folder contains exercises from the chapters in the textbook covering the same material. 
 

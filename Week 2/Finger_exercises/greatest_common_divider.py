@@ -3,17 +3,14 @@
 """
 Created on Wed Mar 14 12:09:59 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def gcdIter(a, b):
-    
     '''
     a, b: positive integers
-    
     returns: a positive integer, the greatest common divisor of a & b.
     '''
-    
     if a > b:
         smallest = b
     else:

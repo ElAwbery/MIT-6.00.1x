@@ -3,13 +3,12 @@
 """
 Created on Tue Mar 27 14:27:04 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 # This time, write a procedure, called biggest, which returns the key corresponding to the entry 
 # with the largest number of values associated with it. 
-# If there is more than one such entry, return any one of the matching keys.
-
+# If there is more than one such entry, return any one of the matching keys
 
 def biggest(aDict):
     '''
@@ -17,7 +16,6 @@ def biggest(aDict):
 
     returns: The key with the largest number of values associated with it
     '''
-   
     highest = 0
    
     for key in aDict:
@@ -30,10 +28,8 @@ def biggest(aDict):
        
     return largestSoFar
 
-    
+# this worked.
 
-
-# this worked.   
 # Their solution: 
 
 def largest (aDict):

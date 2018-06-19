@@ -5,6 +5,7 @@ Created on Sat Mar 17 17:19:06 2018
 
 @author: Charlie
 """
+#solution for grader, no function definition
 
 balance = 484
 annualInterestRate = 0.2
@@ -25,7 +26,3 @@ while monthCount > 0:               #calculates monthly payment
     monthCount -= 1
 
 print ("Remaining balance:", balance)  
-
-
-
-

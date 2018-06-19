@@ -3,7 +3,7 @@
 """
 Created on Sat Mar 10 16:13:20 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def square (num):

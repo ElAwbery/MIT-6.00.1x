@@ -34,4 +34,4 @@ def polysum (n, s):
     
     return round (polySum, 4)
     
-
+#edit, Jun 2018: This function used much more code than was needed and could have been much simpler

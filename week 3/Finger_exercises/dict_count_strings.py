@@ -3,7 +3,7 @@
 """
 Created on Tue Mar 27 13:01:56 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def how_many(aDict):
@@ -12,8 +12,6 @@ def how_many(aDict):
 
     returns: int, how many strings are in the dictionary.
     ''' 
-
- 
     count = 0
     
     for key in aDict:
@@ -21,10 +19,6 @@ def how_many(aDict):
     
     return count
  
-# You can walk down the dictionary key doing something to the value each time. 
+# You can walk down the dictionary keys doing something to the value each time. 
  
-    
-    
-    
-    
-    
+ 

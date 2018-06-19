@@ -3,12 +3,10 @@
 """
 Created on Wed Mar 14 09:02:15 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def iterPower(base, exp):
-    
-   
     '''
     base: int or float.
     exp: int >= 0
@@ -22,7 +20,6 @@ def iterPower(base, exp):
         exp -= 1
     
     return (baseExp)
-    
 
 
 def recurPower(base, exp):
@@ -32,8 +29,7 @@ def recurPower(base, exp):
     exp: int >= 0
  
     returns: int or float, base^exp
-    '''
-    
+    '''    
     if exp == 1:
        return base
    
@@ -43,8 +39,6 @@ def recurPower(base, exp):
     else: 
         return base * (recurPower (base, exp - 1))
     
-    
-     
     print (base)
     
    

@@ -3,7 +3,7 @@
 """
 Created on Mon Mar 19 12:05:59 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 balance = 320000
@@ -11,8 +11,6 @@ annualInterestRate = 0.2
 epsilon = 0.01
 
 monthInterest = annualInterestRate/12
-
-
 
 low = balance/12
 high = balance * ((1 + monthInterest)**12)/12
@@ -43,7 +41,6 @@ while abs (balance - monthlyGuess*12) > epsilon:
         
     if abs (balance - monthlyGuess*12) < epsilon:
         print  ("Lowest payment first print place:", round (monthlyGuess, 2))
-        
         
         break
     

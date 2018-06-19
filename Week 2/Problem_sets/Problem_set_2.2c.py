@@ -5,16 +5,14 @@ Created on Mon Mar 19 13:14:12 2018
 
 @author: ElAwbery
 """
+#Final solution
 
 balance = 999999
 annualInterestRate = 0.18
 
-
 epsilon = 0.01
 
 monthInterest = annualInterestRate/12
-
-
 
 low = balance/12
 high = balance * ((1 + monthInterest)**12)/12

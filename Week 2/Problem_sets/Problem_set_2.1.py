@@ -7,6 +7,8 @@ Created on Fri Mar 16 12:08:24 2018
 """
 
 '''
+Problem set 1 for week 2: Paying debt off in a year. 
+
 Write a program to calculate the credit card balance after one year if a person only pays the minimum monthly payment required by the credit card company each month.
 The following variables contain values as described below:
 

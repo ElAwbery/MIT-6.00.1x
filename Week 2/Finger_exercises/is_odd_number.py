@@ -3,7 +3,7 @@
 """
 Created on Tue Mar 13 20:45:26 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def odd (x):

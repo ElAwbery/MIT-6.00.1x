@@ -3,7 +3,7 @@
 """
 Created on Fri Mar  9 15:20:25 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 print ("Please think of a number between 0 and 100!")
@@ -35,8 +35,3 @@ while secretNumber != 'c':
     
 print("Game over. Your secret number was:", guess)
       
- 
-         
- 
-
-

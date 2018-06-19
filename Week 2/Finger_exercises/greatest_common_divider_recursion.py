@@ -4,9 +4,10 @@
 Created on Wed Mar 14 12:55:05 2018
 
 @author: ElAwbery
+
+First attempt, used a helper function when I did not need to:
 """
-# first attempt, used a helper function when I did not need to:
-"""
+
 def gcdRecur(a, b):
     '''
     a, b: positive integers
@@ -39,7 +40,7 @@ def eucAlg (largest, smallest, remainder):
         smallest = remainder
         remainder = largest%smallest
         return eucAlg (largest, smallest, remainder)
- """
+ 
 
 # second attempt, didn't take so long to write!
   

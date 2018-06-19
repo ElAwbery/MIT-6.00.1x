@@ -6,7 +6,7 @@ Created on Sun Mar 25 14:33:11 2018
 @author: ElAwbery
 """
 '''
-Exhaustive enumerative approach to finding a square root
+Exhaustive enumeration approach to finding a square root
 '''
 
 x = 0.25

@@ -3,7 +3,7 @@
 """
 Created on Fri Mar 16 12:08:24 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 '''
@@ -29,6 +29,8 @@ So your program only prints out one thing: the remaining balance at the end of t
 Remaining balance: 4784.0
 
 '''
+# This failed the grader test. Came back with "make sure you don't define a function!"
+# They had been teaching us to define functions but set a problem where they don't want a function definition
 
 def annualCardStatement (balance, annualInterestRate, monthlyPaymentRate):
     '''
@@ -53,10 +55,7 @@ def annualCardStatement (balance, annualInterestRate, monthlyPaymentRate):
     return print ("Remaining balance:", balance)  
 
 
-# This failed the grader test. Came back with "make sure you don't define a function! "
-# Maybe they might have said that in the first place. They've been fucking teaching us to define functions, then they
-    # randomly set a problem where they don't want a function definition, but don't bother to mention it. 
-    # fucking waste of time. 
+
 
 
 

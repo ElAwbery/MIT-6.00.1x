@@ -11,6 +11,13 @@ Weeks 1 to 3 cover:
  - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables
  
 Weeks 4 to 6 cover:
+ - Testing and debugging, exceptions, exceptions as control flow, asserions
+
+ - Object oriented proghramming, class instances, methods, hierarchies, class variables, inherited methods, generators
+
+ - Program efficiency, big oh notation, complexity classes, analyzing complexity, recursion complexity, search and sort algorithms, bogo, bubble and selection sort, merge sort
+ 
+Week 7 is about plotting and is a preview of the second half of the course. 
 
 I used the course textbook alongside the online videos and exercises. In this repo each course week folder contains exercises from the online course, exercises from the chapters in the textbook covering the same material and my attempts at and solutions for the problem sets. 
 

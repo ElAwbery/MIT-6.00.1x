@@ -4,8 +4,8 @@ In this repository I document my progress through the MIT CS 6.00.1 EdX online c
 The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is the problem sets for the week. The final week is not graded. 
 
 Weeks 1 to 3 cover:
- - Variables and bindings
- - Strings
+ Variables and bindings
+ Strings
  - While and for loops
  - Iteration
  - Guess and check algorithms

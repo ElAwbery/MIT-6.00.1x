@@ -13,7 +13,7 @@ Weeks 1 to 3 cover:
 Weeks 4 to 6 cover:
  - Testing and debugging, exceptions, exceptions as control flow, assertions
 
- - Object oriented proghramming, class instances, methods, hierarchies, class variables, inherited methods, generators
+ - Object oriented programming, class instances, methods, hierarchies, class variables, inherited methods, generators
 
  - Program efficiency, big oh notation, complexity classes, analyzing complexity, recursion complexity, search and sort algorithms, bogo, bubble and selection sort, merge sort
  

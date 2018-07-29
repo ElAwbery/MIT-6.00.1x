@@ -11,7 +11,7 @@ Weeks 1 to 3 cover:
  - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables
  
 Weeks 4 to 6 cover:
- - Testing and debugging, exceptions, exceptions as control flow, asserions
+ - Testing and debugging, exceptions, exceptions as control flow, assertions
 
  - Object oriented proghramming, class instances, methods, hierarchies, class variables, inherited methods, generators
 

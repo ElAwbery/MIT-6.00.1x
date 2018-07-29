@@ -3,6 +3,31 @@ In this repository I document my progress through the MIT CS 6.00.1 EdX online c
 
 The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is the problem sets for the week. The final week is not graded. 
 
+Weeks 1 to 3 cover:
+ - Variables and bindings
+ - Strings
+ - While and for loops
+ - Iteration
+ - Guess and check algorithms
+ - Approximate solutions
+ - Bisection searches
+ - Newton-Raphson searches
+ 
+ - Functions
+ - Scope
+ - Keyword arguments
+ - Specification
+ - Iteration vs. recursion
+ - Recursion on non-numerics
+
+ - Tuples and lists
+ - Mutation, aliasing, cloning
+ - Functions as objects
+ - Dictionaries
+ - Global variables
+ 
+Weeks 4 to 6 cover:
+
 I used the course textbook alongside the online videos and exercises. In this repo each course week folder contains exercises from the online course, exercises from the chapters in the textbook covering the same material and my attempts at and solutions for the problem sets. 
 
 Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%

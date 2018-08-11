@@ -3,7 +3,7 @@
 """
 Created on Sat Mar 31 16:37:51 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 def fancy_divide(numbers, index):
     try:

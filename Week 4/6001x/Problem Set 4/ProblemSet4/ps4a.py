@@ -391,17 +391,7 @@ def playGame(wordList):
                         compPlayHand(theHand, wordList, HAND_SIZE)
                         break
             
-          
-    
-    
-    
-    
-        
-        
-    
 
-
-#
 # Build data structures used for entire session and play game
 #
 if __name__ == '__main__':

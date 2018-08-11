@@ -3,7 +3,7 @@
 """
 Created on Wed Apr  4 19:11:25 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def playGame(wordList):

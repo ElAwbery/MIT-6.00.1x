@@ -31,4 +31,4 @@ It took me three months to work through all of the course material. Graded probl
   </kbd>
 </p>
 
-
+I got 96% for the mid-term exam. I have still to revise the last half of the course and take the final exam. Hoping to do that before the end of August 2018. 

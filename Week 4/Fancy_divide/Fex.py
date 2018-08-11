@@ -3,7 +3,7 @@
 """
 Created on Mon Apr  2 13:13:48 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #This code raises a ZeroDivisionError exception for the following call: fancy_divide([0, 2, 4], 0)

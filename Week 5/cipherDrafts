@@ -1,0 +1,63 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 10 16:49:33 2018
+
+@author: Charlie
+"""
+import string
+#first attempt at build_shift_dict(). Got so far, then realized that using a generator might be better. 
+def build_shift_dict(self, shift):
+    '''
+    Creates a dictionary that can be used to apply a cipher to a letter.
+    The dictionary maps every uppercase and lowercase letter to a
+    character shifted down the alphabet by the input shift. The dictionary
+    should have 52 keys of all the uppercase letters and all the lowercase
+    letters only.        
+    
+    shift (integer): the amount by which to shift every letter of the 
+    alphabet. 0 <= shift < 26
+
+    Returns: a dictionary mapping a letter (string) to 
+             another letter (string). 
+    '''
+
+    cipher_dict = {}
+    shift = 3
+    
+    #s.index ( )		returns an integer of the index number of the character
+    
+    for letter in string.ascii_lowercase:
+        letter_number = string.ascii_lowercase.index(letter)
+        cipher_dict[letter] = string.ascii_lowercase[letter_number + shift-1]
+    
+    for letter in string.ascii_uppercase:
+        cipher_dict[letter] = string.ascii_uppercase[letter_number+shift+25]
+    
+    print(cipher_dict)
+    
+
+
+
+#second attempt: this ought to work, but is repetitive
+def build_shift_dict2(self, shift):
+    
+    cipher_dict = {}
+    self.shift = shift
+    
+    #s.index ( )		returns an integer of the index number of the character
+    
+    for letter in string.ascii_lowercase:
+        letter_number = string.ascii_lowercase.index(letter)
+        if letter_number + shift > 25:
+            letter_number = letter_number - 26
+        cipher_dict[letter] = string.ascii_lowercase[letter_number + shift]
+    
+    for letter in string.ascii_uppercase:
+        letter_number = string.ascii_uppercase.index(letter)
+        if letter_number + shift > 25:
+            letter_number = letter_number - 26
+        cipher_dict[letter] = string.ascii_uppercase[letter_number+shift]
+    
+    print(cipher_dict)
+    return (cipher_dict)

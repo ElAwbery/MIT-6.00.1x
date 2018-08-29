@@ -3,7 +3,7 @@
 """
 Created on Sun Apr  8 19:51:03 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 class Clock(object):

@@ -3,7 +3,7 @@
 """
 Created on Thu May 10 16:49:33 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 import string
 #first attempt at build_shift_dict(). Got so far, then realized that using a generator might be better. 

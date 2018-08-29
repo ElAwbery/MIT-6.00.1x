@@ -3,7 +3,7 @@
 """
 Created on Tue May  8 13:19:24 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 import random

@@ -3,7 +3,7 @@
 """
 Created on Fri May 18 14:15:17 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def selSort(L):

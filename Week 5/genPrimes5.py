@@ -3,7 +3,7 @@
 """
 Created on Thu May 10 13:25:12 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 def genPrimes():

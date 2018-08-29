@@ -3,7 +3,7 @@
 """
 Created on Thu May 10 12:52:31 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 # Write a generator, genPrimes, that returns the sequence of prime numbers on successive calls to its next() method: 

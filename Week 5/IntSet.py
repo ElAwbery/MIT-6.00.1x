@@ -3,7 +3,7 @@
 """
 Created on Tue Apr 10 13:26:32 2018
 
-@author: Charlie
+@author: ElAwbery
 """
 
 #Define an intersect method that returns a new intSet containing elements that appear in both sets. 

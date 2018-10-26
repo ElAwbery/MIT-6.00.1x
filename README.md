@@ -32,3 +32,5 @@ It took me three months to work through all of the course material. Graded probl
 </p>
 
 I got 96% for the mid-term exam and 99% for the final. Overall course grade 98%.
+
+I document the second part of this MIT online undergraduate course in my github repository MIT 6.00.2x (Introduction to computational thinking and data science.) 

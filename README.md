@@ -1,4 +1,4 @@
-# MIT 6.00.1 CS
+# MIT 6.00.1 CS: final course grade 98%
 In this repository I document my progress through the MIT CS 6.00.1 EdX online course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) taught by Eric Grimson, John Guttag and Ana Bell. The Book accompanying the course is available [here](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition). 
 
 The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is the problem sets for the week. The final week is not graded. 
@@ -31,6 +31,6 @@ It took me three months to work through all of the course material. Graded probl
   </kbd>
 </p>
 
-I got 96% for the mid-term exam and 99% for the final. Overall course grade 98%.
+I got 96% for the mid-term exam and 99% for the final. 
 
 I document the [second part](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) of this MIT online undergraduate course in my github repository [MIT 6.00.2x](https://github.com/ElAwbery/MIT-6.00.2x) (Introduction to computational thinking and data science.) 

@@ -1,11 +1,14 @@
-# MIT 6.00.1 CS: final course grade 98%
+# MIT 6.00.1 CS
+
+Final course grade 98%
+
 In this repository I document my progress through the MIT CS 6.00.1 EdX online course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) taught by Eric Grimson, John Guttag and Ana Bell. The Book accompanying the course is available [here](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition). 
 
 The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is the problem sets for the week. The final week is not graded. 
 
 Weeks 1 to 3 cover:
   - Variables and bindings, strings, while and for loops, iteration, guess and check algorithms, approximate solutions, bisection searches, Newton-Raphson searches
- 
+ final
  - Functions, scope, keyword arguments, specification, iteration vs. recursion, recursion on non-numerics
 
  - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables

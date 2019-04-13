@@ -26,7 +26,7 @@ I used the course textbook alongside the online videos and exercises. In this re
 
 Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%
 
-It took me three months to work through all of the course material. Graded problem sets and finger exercises for the full course went well & I completed successfully with full marks. Most of the grader problems allow more than one try. The final week's problem sets on algorithmic complexity have a number of one try only questions. The Edx platform uses bar chart visuals to present your progress. Here's a bar chart shot from mid way through my EdX course progress documentation – the light red represents the problem sets and the dark red the finger exercises. So you can see that the results are heavily weighted towards the problem sets for each week:
+This course functioned as an introduction to Python for me. It took me three months to work through all of the course material. Graded problem sets and finger exercises for the full course went well & I completed successfully with full marks. Most of the grader problems allow more than one try. The final week's problem sets on algorithmic complexity have a number of one try only questions. The Edx platform uses bar chart visuals to present your progress. Here's a bar chart shot from mid way through my EdX course progress documentation – the light red represents the problem sets and the dark red the finger exercises. So you can see that the results are heavily weighted towards the problem sets for each week:
 
 <p align="center">
   <kbd>

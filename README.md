@@ -8,7 +8,7 @@ The course divides into seven weeks. Each of the first six weeks contains three 
 
 Weeks 1 to 3 cover:
   - Variables and bindings, strings, while and for loops, iteration, guess and check algorithms, approximate solutions, bisection searches, Newton-Raphson searches
- final
+
  - Functions, scope, keyword arguments, specification, iteration vs. recursion, recursion on non-numerics
 
  - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables

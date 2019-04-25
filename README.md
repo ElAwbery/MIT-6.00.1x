@@ -7,24 +7,24 @@ In this repository I document my progress through the MIT CS 6.00.1 EdX online c
 The course divides into seven weeks. Each of the first six weeks contains three parts. The first two parts are video lectures and finger exercises. The third part is the problem sets for the week. The final week is not graded. 
 
 Weeks 1 to 3 cover:
-  - Variables and bindings, strings, while and for loops, iteration, guess and check algorithms, approximate solutions, bisection searches, Newton-Raphson searches
+  - Variables and bindings, strings, while and for loops, iteration, guess and check algorithms, approximate solutions, bisection searches, Newton-Raphson searches.
 
- - Functions, scope, keyword arguments, specification, iteration vs. recursion, recursion on non-numerics
+ - Functions, scope, keyword arguments, specification, iteration vs. recursion, recursion on non-numerics.
 
- - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables
+ - Tuples and lists, mutation, aliasing, cloning, functions as objects, dictionaries, global variables.
  
 Weeks 4 to 6 cover:
- - Testing and debugging, exceptions, exceptions as control flow, assertions
+ - Testing and debugging, exceptions, exceptions as control flow, assertions.
 
- - Object oriented programming, class instances, methods, hierarchies, class variables, inherited methods, generators
+ - Object oriented programming, class instances, methods, hierarchies, class variables, inherited methods, generators.
 
- - Program efficiency, big oh notation, complexity classes, analyzing complexity, recursion complexity, search and sort algorithms, bogo, bubble and selection sort, merge sort
+ - Program efficiency, big oh notation, complexity classes, analyzing complexity, recursion complexity, search and sort algorithms, bogo, bubble and selection sort, merge sort.
  
 Week 7 is about plotting and is a preview of the second half of the course. 
 
 I used the course textbook alongside the online videos and exercises. In this repo each course week folder contains exercises from the online course, exercises from the chapters in the textbook covering the same material and my attempts at and solutions for the problem sets. 
 
-Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%
+Course certification requires passing a mid-term and final exam. Finger exercises count for 10% of the final grade, problem sets for 40% and exams for 50%.
 
 This course functioned as an introduction to Python for me. It took me three months to work through all of the course material. Graded problem sets and finger exercises for the full course went well & I completed successfully with full marks. Most of the grader problems allow more than one try. The final week's problem sets on algorithmic complexity have a number of one try only questions. The Edx platform uses bar chart visuals to present your progress. Here's a bar chart shot from mid way through my EdX course progress documentation – the light red represents the problem sets and the dark red the finger exercises. So you can see that the results are heavily weighted towards the problem sets for each week:
 
@@ -36,4 +36,4 @@ This course functioned as an introduction to Python for me. It took me three mon
 
 I got 96% for the mid-term exam and 99% for the final. 
 
-I document the [second part](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) of this MIT online undergraduate course in my github repository [MIT 6.00.2x](https://github.com/ElAwbery/MIT-6.00.2x) (Introduction to computational thinking and data science.) 
+I document the [second part](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7) of this MIT online undergraduate course in my github repository [MIT 6.00.2x](https://github.com/ElAwbery/MIT-6.00.2x) (Introduction to computational thinking and data science). 

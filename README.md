@@ -1,4 +1,4 @@
-# MIT 6.00.1 CS
+# MIT 6.00.1x Introduction to computer science and programming in Python
 
 Final course grade 98%
 
